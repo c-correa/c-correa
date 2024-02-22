@@ -1,8 +1,5 @@
 <img src="https://github.com/c-correa/titleReadMe/blob/master/svg.svg"/>
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
