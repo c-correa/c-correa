@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Node, Express, Nest, RestAPI, GraphQL, Postgres, Typescript, MongoDB Javascript, React, HTML, CSS, AWS],
+   code: [Node, Express, Nest, RestAPI, GraphQL, Postgres, Typescript, MongoDB, Javascript, React, HTML, CSS, AWS],
    technologies: {
       frontEnd: {
          js: ["React"],
