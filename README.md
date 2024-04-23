@@ -3,11 +3,11 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Node, Express, Nest, RestAPI, GraphQL, Postgres, Typescript, MongoDB, Javascript, React, HTML, CSS, AWS],
+   code: [Node, Express, Nest, RestAPI, GraphQL, Postgres, Typescript, MongoDB, Javascript, React, Next, AWS],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["tailwind", "PrimeReact", "Bootstrap", "MaterialUI"]
+         js: ["React, Next"],
+         css: ["tailwind", "PrimeReact", "Bootstrap", "MaterialUI, Styled-Components"]
       },
       backEnd: {
          js: ["Node", "Express", Nest, ],
